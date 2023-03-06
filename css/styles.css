@@ -4,3 +4,11 @@
 .color {
     color: #157347;
 }
+
+.texto {
+    font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;
+}
+
+.enlace {
+    font-weight: bold; color: #1CAAD9;
+}
